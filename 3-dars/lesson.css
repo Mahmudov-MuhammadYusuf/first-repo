@@ -1,0 +1,24 @@
+/* .birinchi-p{
+    color: darkblue;
+    background-color: rgb(24, 56, 56);
+}
+.ikkinchi-p{
+    color: darkgreen;
+    background-color: darkred;
+}
+.birinchi-p img{
+    width: 100px;
+    
+}
+.birinchi-p{
+    font-size: 50px;
+} */
+@font-face{
+    font-family: myfont1;
+    src: url('font-family/../../yozuv/FFF_Tusj.ttf');
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+    font-family: myfont1;
+}

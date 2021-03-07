@@ -1,0 +1,50 @@
+/* .box{
+    width: 200px;
+    height:200px;
+    display: inline-block;
+}
+
+
+
+.box_green{
+    background-color:green;
+  margin: 20px ;
+  padding: 40px;
+}
+.box_red{
+    background-color: red;
+} */
+.container{
+    background-color: rosybrown;
+    width: 85%;
+    margin: 0 auto;
+  
+
+
+}
+
+
+
+
+.box{
+    width: 25%;
+    height: 200px;
+    display: inline-block;
+}
+
+.box_red{
+    background-color: red;
+}
+
+.box_green{
+    background-color: green;
+}
+
+.box_yellow{
+    background-color: yellow;
+}
+
+
+.box_black{
+    background-color: black;
+}
